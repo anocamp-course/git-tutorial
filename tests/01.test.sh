@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cat ./hello
+cat ./hello.txt
